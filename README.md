@@ -6,4 +6,7 @@ Ultra-short echo time (UTE) and zero echo time (ZTE) magnetic resonance imaging 
 Long-T2 species suppression is required for many UTE/ZTE applications to improve the contrast of short-T2 species. We have developed new long-T2 RF suppression pulses. This page provides descriptions and Matlab files for designing these pulses, as well as providing some sample pulses.
 
 Please see the following reference for more information:
-Larson PEZ, Gurney PT, Nayak K, Gold GE, Pauly JM, Nishimura DG. "Designing long-T2 suppression pulses for ultrashort echo time imaging." Magnetic Resonance in Medicine 2006; 56: 94-103. 
+
+Larson PEZ, Gurney PT, Nayak K, Gold GE, Pauly JM, Nishimura DG. "Designing long-T2 suppression pulses for ultrashort echo time imaging." *Magnetic Resonance in Medicine* 2006; 56: 94-103. 
+* http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2942755/
+* http://radiology.ucsf.edu/sites/all/files/filemanager/research/Larson/LarsonT2supp.pdf
