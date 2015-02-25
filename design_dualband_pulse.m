@@ -21,10 +21,11 @@ function [rf, rf_g] = design_dualband_pulse(N, pw, bw, foff2, flips, d);
 %    rf_g - rf pulse in Gauss
 %
 % Example:
-%   [rf rf_g] = 
+%   % Pulse for B0 = 3T with overflipping of fat (105-degrees) to account 
+%   %   for T1 recovery after saturation
+%   [rf rf_g] = design_dualband_pulse(250, 20e-3, [150 200], -460, [90 105]*pi/2);
 %
-% NOTE: fmp.m, b2rf.m, b2a.m, ab2rf.m and rfscaleg.m must be installed to 
-% run this function.
+% Dependent functions are contained in this toolbox
 %
 % Written by Peder Larson, 12/13/2005
 % (c) Board of Trustees, Leland Stanford Junior University
