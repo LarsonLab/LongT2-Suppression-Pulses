@@ -1,4 +1,4 @@
-# LongT2-Suppresion-Pulses
+# LongT2-Suppression-Pulses
 Long-T2 suppression RF pulses for MRI of short and ultrashort T2 components
 
 Ultra-short echo time (UTE) and zero echo time (ZTE) magnetic resonance imaging (MRI) allows for visualization of semi-solid tissues with very short T2 relaxation times. This tissues, which include collagen-rich tisuses such as tendons, ligaments and menisci, as well as calcifications, myelin, periosteum and cortical bone, are normally invisible with conventional MRI techniques.
